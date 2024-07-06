@@ -1,0 +1,1 @@
+{"name":"GalacticWarfare","className":"DataModel","filePaths":["default.project.json"],"children":[{"name":"ReplicatedStorage","className":"ReplicatedStorage","children":[{"name":"Source","className":"Folder","children":[{"name":"Switch","className":"ModuleScript","filePaths":["src/ReplicatedStorage\\Switch.luau"]},{"name":"Source","className":"Folder"}]}]}]}
